@@ -17,6 +17,9 @@ This project won't be limited to a single design, rather open to a try and fail 
 ## Fusion 360
 * [Fusion CAD model](http://a360.co/2x9UzpX)
 
+## Shared project development on google docs
+* [root directory](https://drive.google.com/drive/folders/1pOzpCvMHlKyRsvchgMWl__mA53C8NJeZ?usp=sharing)
+
 ## Concept
 <p align="center">
   <img src="doc/side view.png" width="350" title="rover robot concept side view" alt="rover robot concept side view">
