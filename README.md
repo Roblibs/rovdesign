@@ -34,7 +34,7 @@ This project won't be limited to a single design, rather open to a try and fail 
   <img src="doc/gazebo sim stand.png" ref="https://www.youtube.com/watch?v=AlXYAZM_Tuc&feature=youtu.be" target="_blank" width="350" title="gazebo sim stand" alt="gazebo sim stand"><br>Robot in flat mode
 </p>
 
-* [youtube video of the gazebo standing simulation](https://www.youtube.com/watch?v=AlXYAZM_Tuc&feature=youtu.be)
+* [youtube video of the gazebo standing simulation](https://www.youtube.com/watch?v=1Tv4VYB-lmo)
 
 ## Licensing
 This project is open to contributions, fork and reuse in any sort of projects. Third party Subsets are subject to their own licensing.
